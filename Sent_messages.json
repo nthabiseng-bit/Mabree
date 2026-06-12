@@ -1,0 +1,36 @@
+{
+ "messageID" :"MSG001",
+ "messageHash":"Hash02337",
+ "recipient":"+27685139480",
+ "messageText":"Hi"
+},
+{
+ "messageID" :"MSG001",
+ "messageHash":"Hash41841",
+ "recipient":"+27815334782",
+ "messageText":"Hi where are u"
+},
+{
+ "messageID" :"MSG002",
+ "messageHash":"Hash66959",
+ "recipient":"+27815334782",
+ "messageText":"im here by the gate"
+},
+{
+ "messageID" :"MSG001",
+ "messageHash":"Hash94433",
+ "recipient":"+27815334782",
+ "messageText":"Hi babe"
+},
+{
+ "messageID" :"MSG002",
+ "messageHash":"Hash75028",
+ "recipient":"+27815334782",
+ "messageText":"I'm outside"
+},
+{
+ "messageID" :"MSG001",
+ "messageHash":"Hash03329",
+ "recipient":"+27712897900",
+ "messageText":"hi"
+},
